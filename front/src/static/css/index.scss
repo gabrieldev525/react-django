@@ -1,0 +1,29 @@
+@import 'variables.scss';
+
+body, html {
+	margin: 0; 
+	padding: 0;
+	height: 100%;
+	background-color: $color-body;
+}
+
+h1 {
+	text-align: center;
+	display: block;
+}
+
+.content {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 30% !important;
+
+	p {
+		color: #fff;
+		text-align: justify;
+	}
+	h1 {
+		color: #d9950d;
+	}
+}
