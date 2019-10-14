@@ -3,11 +3,13 @@
 #### Requirements
 - [Node js](https://nodejs.org/en/)
 - [virtualenv wrapper](https://virtualenvwrapper.readthedocs.io/en/latest/)
+- [Python 3](https://www.python.org/downloads/)
 
 #### How to install the dependencies?
 
 - clone the repository
-- install the [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/) to a best package manager and create a new virtual environment
+- install the [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/) to a best package manager and create a new virtual environment:
+```mkvirtualenv -p path/to/python virtualenvname```
 - run the command in the project root: 
 ``` pip install -r requirements/develop.txt ```
 - later open the front folder in shell and run: 
