@@ -14,7 +14,7 @@
 ``` npm install ```
 
 #### Starting the project
-- You need make the migrate in the django database, you can run: 
+- The first execution, you need make the migrate in the django database, you can run: 
 ``` ./manage.py migrate ```
 - In the project root folder run the command: 
 ``` ./manage.py runserver ```
@@ -22,9 +22,10 @@
 ``` npm start ```
 <br><br>
 ### YEAH, your project is running!!!
-![congratulation](https://media0.giphy.com/media/l49JHLpRSLhecYEmI/giphy.gif)
+![hacker men](https://media0.giphy.com/media/26tPnAAJxXTvpLwJy/giphy.gif)
 
 You can access it in: https://127.0.0.0.1:8000
 
 ##### now, is time to code lol
-![Timecode](https://media0.giphy.com/media/26tPnAAJxXTvpLwJy/giphy.gif)
+
+![Time to code](https://i.makeagif.com/media/10-01-2015/dhvwZp.gif)
