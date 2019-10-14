@@ -26,6 +26,6 @@
 
 You can access it in: https://127.0.0.0.1:8000
 
-##### now, is time to code lol
+### now, is time to code :)
 
 ![Time to code](https://i.makeagif.com/media/10-01-2015/dhvwZp.gif)
