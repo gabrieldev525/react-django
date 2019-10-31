@@ -27,3 +27,35 @@ h1 {
 		color: #d9950d;
 	}
 }
+
+.github-button {
+	display: flex;
+	width: 100%;
+	margin-top: 3% !important;
+	background-color: #d9950d !important;
+	color: #fff !important;
+	transition: 0.25s;
+
+	&:hover {
+		background-color: #fff !important;
+		color: #000 !important;
+	}
+}
+
+.contact {
+	display: flex;
+	margin-top: 10%;
+	justify-content: center;
+}
+.contact .icon {
+	font-size: 2em;
+	color: #fff;
+	margin: 0 2%;
+	cursor: pointer;
+	transition: 0.25s;
+
+	&:hover {
+		color: #d9950d;
+		transform: scale(1.1);
+	}
+}
