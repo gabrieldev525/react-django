@@ -24,7 +24,6 @@
 ``` npm start ```
 <br><br>
 ### YEAH, your project is running!!!
-![hacker men](https://media0.giphy.com/media/26tPnAAJxXTvpLwJy/giphy.gif)
 
 You can access it in: https://127.0.0.0.1:8000
 
